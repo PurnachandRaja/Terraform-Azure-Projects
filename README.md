@@ -1,1 +1,1 @@
-# Terraform-Azure-Practice
+# Terraform-Azure-Projects
